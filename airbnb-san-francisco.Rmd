@@ -2,7 +2,7 @@
 title: "Airbnb listings in San Francisco, CA, USA"
 author: "stevan"
 date: ""
-output: md_document
+output: github_document
 ---
 
 ```{r libraries, echo=FALSE, message=FALSE}
